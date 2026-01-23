@@ -1,0 +1,9 @@
+Write an R program to:
+1. Record the names of five students along with their
+marks in the three subjects. (Data Frame)
+2. Calculate and include each student’s total and average
+marks in the dataset.
+3. Determine the average marks scored by the class in
+each subject.
+4. Display the names of students whose overall average
+marks fall below the class average.
